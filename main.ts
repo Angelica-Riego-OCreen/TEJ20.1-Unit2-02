@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Angelica Riego-O'Creen
+ * Created on: Feb 2026
+ * This program runs hello Mother Teresa!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Mother Teresa!')
